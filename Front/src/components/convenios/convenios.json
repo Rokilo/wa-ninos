@@ -1,0 +1,47 @@
+[
+    {
+        "titulo": "Convenio Salud 1",
+        "seccion": "Salud",
+        "img": "../src/assets/farmacia.png",
+        "descripcion": "Aquí podrás ver la descripción y en que consiste este convenio",
+        "descuento": "20%",
+        "fecha_i" : "14-02-2024",
+        "fecha_f" : "14-03-2024"
+    },
+    {
+        "titulo": "Convenio Salud 2",
+        "seccion": "Salud",
+        "img": "../src/assets/farmacia.png",
+        "descripcion": "Aquí podrás ver la descripción y en que consiste este convenio",
+        "descuento": "40%",
+        "fecha_i" : "11-02-2024",
+        "fecha_f" : "14-03-2024"
+    },
+    {
+        "titulo": "Convenio Alimentos 1",
+        "seccion": "Alimentos",
+        "img": "../src/assets/farmacia.png",
+        "descripcion": "Aquí podrás ver la descripción y en que consiste este convenio",
+        "descuento": "10%",
+        "fecha_i" : "01-02-2024",
+        "fecha_f" : "30-03-2024"
+    },
+    {
+        "titulo": "Convenio Entretenimiento 1",
+        "seccion": "Entretenimiento",
+        "img": "../src/assets/farmacia.png",
+        "descripcion": "Aquí podrás ver la descripción y en que consiste este convenio",
+        "descuento": "15%",
+        "fecha_i" : "14-02-2024",
+        "fecha_f" : "14-03-2024"
+    },
+    {
+        "titulo": "Otros Convenios 1",
+        "seccion": "Otros",
+        "img": "../src/assets/farmacia.png",
+        "descripcion": "Aquí podrás ver la descripción y en que consiste este convenio",
+        "descuento": "80%",
+        "fecha_i" : "14-02-2024",
+        "fecha_f" : "14-04-2024"
+    }
+]

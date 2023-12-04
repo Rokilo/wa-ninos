@@ -1,0 +1,22 @@
+[
+    {
+      "id": "noticia1",
+      "titulo": "Noticia Importante"
+    },
+    {
+        "id": "noticia2",
+        "titulo": "Noticia Interesante"
+    },
+    {
+        "id": "noticia3",
+        "titulo": "Noticia Divertida"
+    },
+    {
+        "id": "noticia4",
+        "titulo": "Noticia Aburrida"
+    },
+    {
+        "id": "noticia5",
+        "titulo": "Noticia Prueba"
+    }
+]

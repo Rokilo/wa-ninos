@@ -1,0 +1,24 @@
+[
+    {
+        "titulo": "Reto 1",
+        "pasosEImagenes": [
+            {
+                "Pasos": "Paso 1 para Reto 1",
+                "img":["../src/assets/origami.jpg"]
+            },
+            {
+                "Pasos": "Paso 2 para Reto 1",
+                "img":["../src/assets/origami.jpg"]
+            }
+        ]
+    },
+    {
+        "titulo": "Reto 2",
+        "pasosEImagenes": [
+            {
+                "Pasos": "Paso 1 para Reto 2",
+                "img":["../src/assets/origami.jpg"]
+            }
+        ]
+    }
+]

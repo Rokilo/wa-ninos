@@ -1,0 +1,25 @@
+[
+    {
+    "titulo":"Reto 1",
+    "img":"/assets/origami-5a6bc7e2.jpg",
+    "dificultad":"1"
+    },
+    
+    {
+    "titulo":"Reto 2",
+    "img":"/assets/origami-5a6bc7e2.jpg",
+    "dificultad":"2"
+    },
+
+    {
+    "titulo":"Reto 3",
+    "img":"/assets/origami-5a6bc7e2.jpg",
+    "dificultad":"3"
+    },
+
+    {
+        "titulo":"Reto 4",
+        "img":"/assets/origami-5a6bc7e2.jpg",
+        "dificultad":"3"
+    }
+]
